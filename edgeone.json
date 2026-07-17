@@ -8,6 +8,6 @@
     "nodejs": {
       "maxDuration": 120
     },
-  "overseasRegions": ["ap-tokyo"]
+  "overseasRegions": "ap-tokyo"
   }
 }
