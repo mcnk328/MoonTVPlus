@@ -7,7 +7,6 @@
   "cloudFunctions": {
     "nodejs": {
       "maxDuration": 120
-    },
-  "overseasRegions": "ap-tokyo"
+    }
   }
 }
