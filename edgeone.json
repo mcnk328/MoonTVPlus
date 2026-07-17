@@ -3,11 +3,11 @@
   "installCommand": "pnpm install --frozen-lockfile",
   "buildCommand": "pnpm edgeone:build",
   "outputDirectory": ".edgeone",
-  "mainlandRegions": ["ap-seoul"]
   "nodeVersion": "24",
   "cloudFunctions": {
     "nodejs": {
       "maxDuration": 120
-    }
+    },
+  "overseasRegions": ["ap-tokyo"]
   }
 }
